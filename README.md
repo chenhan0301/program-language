@@ -10,6 +10,7 @@ Week 1
 - 課程簡介
 
 - 架設個人Github課程專題
+- 
 Week 2
 - Python 基礎 
 
