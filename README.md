@@ -21,7 +21,7 @@ Week 3
 
 # >作業連結區:
 
-HW1:[分析CSV資料](https://youtu.be/3GiFPtghsb8)
+HW1:[分析CSV資料](https://github.com/chenhan0301/program-language/blob/main/rank.ipynb)
 
 
 
