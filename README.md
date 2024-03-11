@@ -4,7 +4,7 @@
 姓名：董承翰
 
 系級：科技系2年級
-# >課程筆記區 :blue_book: :
+# >課程筆記區 :blue_book: 
 
 Week 1
 - 課程簡介
@@ -27,11 +27,11 @@ Week 8
 Week 9 10
 - Python 文字探勘實作  
 
-# >作業連結區 :book: :
+# >作業連結區 :book: 
 
 HW1:[分析CSV資料](https://github.com/chenhan0301/program-language/blob/main/rank.ipynb)
 
 
 
-# >專題連結區 :open_file_folder: :
+# >專題連結區 :open_file_folder: 
 
