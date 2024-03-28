@@ -29,7 +29,7 @@ Week 9 10
 
 # >作業連結區 :book: 
 
-HW1:[資料分析](https://github.com/chenhan0301/program-language/blob/main/rank.ipynb)
+HW1:[資料分析](https://github.com/chenhan0301/program-language/blob/main/HW1.ipynb)
 
 HW2:[資料分析](https://github.com/chenhan0301/program-language/blob/main/HW2.ipynb) [視覺畫圖表](https://github.com/chenhan0301/program-language/blob/main/HW2%20%E8%A6%96%E8%A6%BA%E7%95%AB%E5%9C%96%E8%A1%A8.png)
 
