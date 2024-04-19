@@ -31,7 +31,7 @@ Week 9 10
 
 HW1:[資料分析](https://github.com/chenhan0301/program-language/blob/main/HW1.ipynb)
 
-HW2:[資料分析](https://github.com/chenhan0301/program-language/blob/main/HW2.ipynb) [視覺畫圖表](https://github.com/chenhan0301/program-language/blob/main/HW2%20%E8%A6%96%E8%A6%BA%E7%95%AB%E5%9C%96%E8%A1%A8.png)
+HW2:[資料分析](https://github.com/chenhan0301/program-language/blob/main/HW2.ipynb) [視覺畫圖表](https://github.com/chenhan0301/program-language/blob/main/HW2%20%E8%A6%96%E8%A6%BA%E7%95%AB%E5%9C%96%E8%A1%A8.png) [長條圖](https://github.com/chenhan0301/program-language/blob/main/%E9%95%B7%E6%A2%9D%E5%9C%96.png)
 
 HW3:[資料分析](https://github.com/chenhan0301/program-language/blob/main/HW3.ipynb) [Json檔](https://github.com/chenhan0301/program-language/blob/main/HW3%20Json) [CSV檔](https://github.com/chenhan0301/program-language/blob/main/HW3.csv) [解說影片](https://youtu.be/ccvip9SmF9k)
 
